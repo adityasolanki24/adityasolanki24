@@ -45,7 +45,7 @@
         <strong>Technologies:</strong> Mechanical Design, CAD, Robotics
       </p>
     </td>
-    <td width="50%">
+    <td width="70%">
       <h3 align="center">🎵 Mood Based Song Recommender</h3>
         <p align="center">
           Project to suggest songs based on users' mood.
