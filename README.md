@@ -4,10 +4,7 @@
 
 <!-- Custom Rocket Animation -->
 <div align="center">
-  <blockquote class="pix-embed-wrap">
-    <div class="pix-embed-activity" data-id="930088206ad1" data-width="64" data-height="64" data-type="art" data-theme="light" data-show-edit="1">Pixilart Embed</div>
-  </blockquote>
-  <script async="async" src="https://www.pixilart.com/js/embed.js?v=1.0.4"></script>
+  <img src="assets/rocket_gif.gif" alt="Rocket Animation" width="120" />
 </div>
 
 <div align="center">
