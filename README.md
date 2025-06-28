@@ -14,7 +14,7 @@
 
 ## 🔭 Projects
 - 🚀 **Project Vyom** – Rocket design, thrust vector control
-- 🤖 **Rover @ SIRI Club** – Structure engineer for planetary rover
+- 🤖 **SIRI(RoverClub)** – Structure engineer for planetary rover
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityasolanki24)
 
