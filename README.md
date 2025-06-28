@@ -16,7 +16,7 @@
 - 🚀 **Project Vyom** – Rocket design, thrust vector control
 - 🤖 **Rover @ SIRI Club** – Structure engineer for planetary rover
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/adityasolanki24)
 
 <!--
 **adityasolanki24/adityasolanki24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
