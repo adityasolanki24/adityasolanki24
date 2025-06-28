@@ -45,13 +45,14 @@
         <strong>Technologies:</strong> Mechanical Design, CAD, Robotics
       </p>
     </td>
-    <h3 align="center">🎵 Mood Based Song Recommender</h3>
-      <p align="center">
-        Project to suggest songs based on users' mood.
-      </p>
-      <p align="center">
-        <strong>Technologies:</strong> streamlit,python,opencv,API's
-      </p>
+    <td width="50%">
+      <h3 align="center">🎵 Mood Based Song Recommender</h3>
+        <p align="center">
+          Project to suggest songs based on users' mood.
+        </p>
+        <p align="center">
+          <strong>Technologies:</strong> streamlit,python,opencv,API's
+        </p>
     </td>
   </tr>
 </table>
