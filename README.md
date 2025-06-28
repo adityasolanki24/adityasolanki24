@@ -2,14 +2,12 @@
   <div style="flex: 1; min-width: 200px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aditya+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </div>
-  <div style="flex: 0;">
+  <div align="left" style="flex: 0;">
     <img src="assets/rocket_gif.gif" alt="Rocket Animation" width="120" />
   </div>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityasolanki24&style=flat-square&color=6366F1" alt="Profile Views" />
-</div>
+
 
 ---
 
