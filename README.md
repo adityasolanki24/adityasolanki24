@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aditya+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
+<!-- Rocket Animation -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Rocket Animation" width="200" />
+</div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adityasolanki24&style=flat-square&color=6366F1" alt="Profile Views" />
 </div>
@@ -15,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasolanki24&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=6366F1&dates=6366F1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=adityasolanki24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 🎓 Education & Current Focus
@@ -65,7 +70,7 @@
   <h3>Hardware & Embedded</h3>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi" />
+ 
 </div>
 
 <div align="center">
@@ -96,7 +101,7 @@
   <a href="https://www.linkedin.com/in/adityasolanki24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:adityasolanki24@gmail.com" target="_blank">
+  <a href="mailto:24adityasolanki24@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/adityasolanki24" target="_blank">
