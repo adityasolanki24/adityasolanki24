@@ -2,9 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aditya+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
-<!-- Rocket Animation -->
+<!-- Custom Rocket Animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Rocket Animation" width="200" />
+  <blockquote class="pix-embed-wrap">
+    <div class="pix-embed-activity" data-id="930088206ad1" data-width="64" data-height="64" data-type="art" data-theme="light" data-show-edit="1">Pixilart Embed</div>
+  </blockquote>
+  <script async="async" src="https://www.pixilart.com/js/embed.js?v=1.0.4"></script>
 </div>
 
 <div align="center">
