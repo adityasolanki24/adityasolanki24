@@ -11,19 +11,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityasolanki24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
 
-### 🎓 Education & Current Focus
-- **🎓 Mechatronics Engineering** @ University of Sydney
-- **🚀 Working on** Project Vyom (Rocket Project)
-- **📚 Learning** Embedded Systems, AI, Web Development
+### Education & Current Focus
+- **Mechatronics Engineering** @ University of Sydney
+- **Working on** Project Vyom (Rocket Project)
+- **Learning** Embedded Systems, AI, Web Development
 
-### 🌟 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
@@ -86,7 +86,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasolanki24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
@@ -98,7 +98,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adityasolanki24" target="_blank">
@@ -109,6 +109,9 @@
   </a>
   <a href="https://github.com/adityasolanki24" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/aditya_solanki24?igsh=MXJ3Z2I5bnl1ZXEzaQ%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
