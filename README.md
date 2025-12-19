@@ -1,99 +1,193 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 24px;">
-  <div style="flex: 1; min-width: 200px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aditya+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" />
-  </div>
-  <div align="center" style="flex: 0;">
-    <img src="assets/rocket_gif.gif" alt="Rocket Animation" width="150" />
-  </div>
+<div align="center">
+  
+  <img src="assets/rocket_gif.gif" alt="Rocket" width="80" />
+  
+  # Hey, I'm Aditya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=80&lines=Mechatronics+Engineering+%40+University+of+Sydney;Building+Rockets%2C+Robots+%26+Intelligent+Systems" alt="Typing SVG" />
+
+  <br/>
+  
+  [![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasolanki24)
+  [![Email](https://img.shields.io/badge/-Email%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adityasolanki24@gmail.com)
+  [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adityasolanki24)
+
 </div>
-
-
 
 ---
 
-## About Me
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasolanki24&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="280" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasolanki24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
+### About Me
 
+```yaml
+name: Aditya Solanki
+location: Sydney, Australia
+education: Mechatronics Engineering @ USYD
 
-### Education & Current Focus
-- **Mechatronics Engineering** @ University of Sydney
-- **Working on** Project Vyom (Rocket Project)
-- **Learning** Embedded Systems, AI, Web Development
+interests:
+  - Aerospace & Rocketry
+  - Embedded Systems & Robotics
+  - AI & Machine Learning
+  - Full-Stack Development
 
-### Featured Projects
+currently_building:
+  - Project Vyom (Thrust Vector Control)
+  - Icarus Copilot (AI Flight Systems)
+```
+
+<br clear="right"/>
+
+---
+
+## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 Project Vyom</h3>
-      <p align="center">
-        Advanced rocket design project focusing on thrust vector control systems and aerospace engineering.
-      </p>
-      <p align="center">
-        <strong>Technologies:</strong> C, STM32, Aerospace Engineering
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 SIRI (RoverClub)</h3>
-      <p align="center">
-        Structural engineering role in planetary rover development for space exploration missions.
-      </p>
-      <p align="center">
-        <strong>Technologies:</strong> Mechanical Design, CAD, Robotics
-      </p>
-    </td>
-    <td width="70%">
-      <h3 align="center">🎵 Mood Based Song Recommender</h3>
-        <p align="center">
-          Project to suggest songs based on users' mood.
-        </p>
-        <p align="center">
-          <strong>Technologies:</strong> streamlit,python,opencv,API's
-        </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">Project Vyom</h3>
+<p align="center">
+  <a href="https://github.com/adityasolanki24/Project-Vyom">
+    <img src="https://img.shields.io/badge/-View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/adityasolanki24/Project-Vyom?style=flat-square&color=yellow" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+</p>
+
+Personal aerospace initiative designing a **solid-fueled rocket** with active thrust vector control, custom avionics, and real-time flight data systems.
+
+**Highlights:**
+- Active Thrust Vector Control (TVC)
+- Custom flight computer & avionics
+- Real-time telemetry system
+- Sensor fusion algorithms
+
+`C` `STM32` `PCB Design` `Control Systems`
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Icarus Copilot</h3>
+<p align="center">
+  <a href="https://github.com/adityasolanki24/Icarus-Copilot">
+    <img src="https://img.shields.io/badge/-View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/adityasolanki24/Icarus-Copilot?style=flat-square&color=yellow" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+</p>
+
+AI-powered flight assistance system for autonomous navigation and intelligent decision-making in aerial systems.
+
+**Highlights:**
+- Machine learning models
+- Autonomous flight logic
+- Real-time data processing
+- Adaptive control systems
+
+`Python` `AI/ML` `Computer Vision` `Autopilot`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">Warehouse Navigation Robot</h3>
+<p align="center">
+  <a href="https://github.com/adityasolanki24/Warehouse-Navigation-Robot">
+    <img src="https://img.shields.io/badge/-View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/adityasolanki24/Warehouse-Navigation-Robot?style=flat-square&color=yellow" />
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=flat-square" />
+</p>
+
+Autonomous robot system for warehouse logistics with pathfinding algorithms and obstacle avoidance.
+
+**Highlights:**
+- Path planning algorithms
+- Obstacle detection & avoidance
+- Localization system
+- Real-time navigation
+
+`C++` `Robotics` `Algorithms` `Sensors`
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Project Turing</h3>
+<p align="center">
+  <a href="https://github.com/adityasolanki24/Project-Turing">
+    <img src="https://img.shields.io/badge/-View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/adityasolanki24/Project-Turing?style=flat-square&color=yellow" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square" />
+</p>
+
+Full-stack TypeScript application showcasing modern web development practices.
+
+**Highlights:**
+- Modern frontend framework
+- RESTful API design
+- Database integration
+- Clean UI/UX
+
+`TypeScript` `React` `Node.js` `Web Dev`
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
-  <h3>Languages & Frameworks</h3>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</div>
 
-<div align="center">
-  <h3>Hardware & Embedded</h3>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-</div>
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<div align="center">
-  <h3>Tools & Platforms</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+### Embedded & Hardware
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+
 </div>
 
 ---
 
-## GitHub Analytics
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasolanki24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasolanki24&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=adityasolanki24&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityasolanki24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasolanki24&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Activity Graph" width="100%" />
 </div>
 
 ---
@@ -110,15 +204,6 @@
   <a href="https://github.com/adityasolanki24" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/aditya_solanki24?igsh=MXJ3Z2I5bnl1ZXEzaQ%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasolanki24&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -129,6 +214,6 @@
 
 ---
 
-<div align="center">
-  <sub>⭐ Star this repository if you found it helpful!</sub>
-</div>
+
+
+
