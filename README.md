@@ -86,10 +86,7 @@ Personal aerospace initiative designing a **solid-fueled rocket** with active th
 AI-powered flight assistance system for autonomous navigation and intelligent decision-making in aerial systems.
 
 **Highlights:**
-- Machine learning models
-- Autonomous flight logic
-- Real-time data processing
-- Adaptive control systems
+- LLM based AI chatbot
 
 `Python` `AI/ML` `Computer Vision` `Autopilot`
 
