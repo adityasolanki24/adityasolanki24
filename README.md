@@ -2,7 +2,7 @@
   
   <img src="assets/rocket_gif.gif" alt="Rocket" width="80" />
   
-  # Hey, I'm Aditya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  # Hey, I'm Aditya! 
   
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=80&lines=Mechatronics+Engineering+%40+University+of+Sydney;Building+Rockets%2C+Robots+%26+Intelligent+Systems" alt="Typing SVG" />
 
